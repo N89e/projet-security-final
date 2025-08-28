@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ressort-sécurité-minimal-jwt.iml" filepath="$PROJECT_DIR$/.idea/ressort-sécurité-minimal-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/projet-security-final.iml" filepath="$PROJECT_DIR$/.idea/projet-security-final.iml" />
     </modules>
   </component>
 </project>
